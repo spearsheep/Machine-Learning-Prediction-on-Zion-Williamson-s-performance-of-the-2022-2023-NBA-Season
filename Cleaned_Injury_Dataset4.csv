@@ -1,0 +1,195 @@
+﻿,Year,Player,Pos,G,MP,PER,Team,Notes,index,Height,Weight,Age,Draft_year,Prev_Avg_EFF,After_Avg_EFF,Ankle ,Foot,Hip ,Knee,Finger,Shoulder,Back,Achilles,Hamstring,Other,Type 
+75,2012,Al Horford,C,11,348,19,Hawks,surgery to repair torn left pectoral muscle (out for season),5,208.28,113.398,26,2007,16.4,22.6,0,0,0,0,0,0,0,0,0,1,Other
+189,2015,Al Jefferson,C,65,1992,19.7,Hornets,sore right knee (out for season),8,208.28,131.088088,30,2004,23.1,9.4,0,0,0,1,0,0,0,0,0,0,Knee
+136,2014,Alec Burks,SG,78,2193,15.8,Jazz,placed on IL with left shoulder injury (out for season),7,198.12,95.707912,22,2011,5.9,10.4,0,0,0,0,0,1,0,0,0,0,Shoulder
+197,2015,Alex Len,C,69,1518,13.5,Suns,fractured nose (out for season),8,215.9,115.66596,22,2013,11.4,11.9,0,0,0,1,0,0,0,0,0,0,Knee
+139,2014,Allen Crabbe,SG,15,100,7.7,Blazers,placed on IL (out for season),7,198.12,95.25432,22,2013,1.7,9.6,0,0,0,1,0,0,0,0,0,0,Knee
+286,2017,Amir Johnson,PF,80,1608,15,Celtics,sprained right shoulder (out for season),10,205.74,108.86208,30,2005,16,5.9,0,0,0,0,0,1,0,0,0,0,Shoulder
+61,2012,Andray Blatche,PF,26,626,10.6,Wizards,placed on IL (F) (out for season),5,210.82,117.93392,25,2005,10.4,12.4,0,0,0,0,0,0,0,0,0,1,Other
+31,2011,Andre Iguodala,SF,67,2469,17.2,76ers,placed on IL with right knee tendinitis (out for season),4,198.12,93.893544,27,2004,9.1,16,0,0,0,1,0,0,0,0,0,0,Knee
+8,2011,Andrea Bargnani,C,66,2353,16.4,Raptors,placed on IL with sore right ankle (out for season),4,213.36,113.398,25,2006,8.6,9.7,1,0,0,0,0,0,0,0,0,0,Ankle
+35,2011,Andrei Kirilenko,SF,64,1999,16.6,Jazz,placed on IL with nerve damage in left knee (out for season),4,205.74,106.59412,30,1999,15.9,16.1,0,0,0,1,0,0,0,0,0,0,Knee
+12,2011,Andrew Bogut,C,65,2297,16.7,Bucks,placed on IL with loose particles and scar tissue in right elbow (out for season),4,213.36,117.93392,26,2005,19.6,13,0,0,0,0,0,0,0,0,0,1,Other
+32,2011,Antawn Jamison,PF,56,1842,16.8,Cavaliers,placed on IL recovering from surgery to repair broken left little finger (out for season),4,205.74,106.59412,35,1998,22,10.2,0,0,0,0,1,0,0,0,0,0,Finger 
+234,2016,Anthony Davis,C,61,2164,25,Pelicans,left knee injury and torn labrum in left shoulder (out for season),9,208.28,114.758776,23,2012,18.3,32.9,0,0,0,0,0,1,0,0,0,0,Shoulder
+301,2017,Anthony Tolliver,PF,65,1477,11.1,Kings,placed on IL for rest (out for season),10,203.2,108.86208,32,Undrafted,4.6,5.7,0,0,0,0,0,0,0,0,0,1,Other
+106,2013,Aron Baynes,C,16,141,8.8,Spurs,placed on IL (out for season),6,208.28,117.93392,26,Undrafted,3.2,8.9,0,0,0,0,0,0,0,0,0,1,Other
+103,2013,Arron Afflalo,SF,64,2307,13,Magic,strained right hamstring (out for season),6,195.58,97.52228,27,2007,4.8,9.933333333,0,0,0,0,0,0,0,0,1,0,Hamstring
+126,2013,Austin Rivers,SG,61,1418,5.9,Hornets,placed on IL with fractured right hand (out for season),6,193.04,90.7184,20,2012,4.6,6.566666667,0,0,0,0,0,0,0,0,0,1,Other
+63,2012,Avery Bradley,PG,64,1368,11.3,Celtics,placed on IL with left shoulder injury (out for season),5,187.96,81.64656,21,2010,0.7,11.6,0,0,0,0,0,1,0,0,0,0,Shoulder
+115,2013,Blake Griffin,PF,80,2598,22.4,Clippers,placed on IL with strained right hamstring (out for season),6,208.28,113.851592,24,2009,25.6,23.6,0,0,0,0,0,0,0,0,1,0,Hamstring
+107,2013,Bradley Beal,SG,56,1745,13.6,Wizards,placed on IL with stress injury in right fibula (out for season),6,195.58,93.893544,20,2012,12,13.5,0,0,0,0,0,0,0,0,0,1,Other
+221,2015,Brandan Wright,PF,75,1449,20.4,Suns,foot injury / sore left ankle (out for season),8,208.28,95.25432,27,2007,9.6,8.5,0,1,0,0,0,0,0,0,0,0,Foot
+192,2015,Brandon Jennings,PG,41,1173,19.7,Pistons,torn left Achilles (out for season),8,185.42,76.657048,25,2009,14.5,8.5,0,0,0,0,0,0,0,1,0,0,Achilles
+195,2015,Brandon Knight,PG-SG,63,2035,17.1,Suns,placed on IL with sprained left ankle (out for season),8,190.5,85.728888,23,2011,10.7,8.3,1,0,0,0,0,0,0,0,0,0,Ankle
+95,2012,Brandon Rush,SF,65,1717,15.2,Warriors,torn ACL in left knee (out for season),5,198.12,102.0582,26,2008,7.3,2.1,0,0,0,1,0,0,0,0,0,0,Knee
+26,2011,Brendan Haywood,C,72,1331,11.7,Mavericks,placed on IL with strained right hip flexor (out for season),4,213.36,119.294696,31,2001,14.95,6.5,0,0,1,0,0,0,0,0,0,0,Hip
+82,2012,Brook Lopez,C,5,136,21.9,Nets,placed on IL with sprained right ankle (out for season),5,213.36,120.20188,24,2008,17.3,21.1,1,0,0,0,0,0,0,0,0,0,Ankle
+144,2014,Carl Landry,PF,18,233,11.2,Kings,placed on IL with torn medial meniscus in right knee (out for season),7,205.74,112.490816,30,2007,17.1,11.2,0,0,0,1,0,0,0,0,0,0,Knee
+160,2015,Carmelo Anthony,SF,40,1428,21.5,Knicks,placed on IL with knee injury (out for season),8,203.2,108.86208,31,2003,22.8,18.9,0,0,0,1,0,0,0,0,0,0,Knee
+14,2011,Caron Butler,SF,29,867,14.2,Mavericks,placed on IL with torn patella tendon in right knee (out for season),4,200.66,103.418976,31,2002,22.7,8.7,0,0,0,1,0,0,0,0,0,0,Knee
+209,2015,Chandler Parsons,SF,66,2186,16.3,Mavericks,placed on IL with sprained right knee (out for season),8,205.74,102.965384,26,2011,11.5,5.7,0,0,0,1,0,0,0,0,0,0,Knee
+72,2012,Channing Frye,PF,64,1669,14.9,Suns,placed on IL with enlarged heart (out for season),5,210.82,111.13004,29,2005,8.7,12.2,0,0,0,0,0,0,0,0,0,1,Other
+60,2012,Chauncey Billups,SG,20,607,16.1,Clippers,torn left Achilles tendon (out for season),5,190.5,95.25432,35,1997,19.2,3.7,0,0,0,0,0,0,0,1,0,0,Achilles
+34,2011,Chris Kaman,C,32,838,15.7,Clippers,placed on IL with sprained right knee (out for season),4,213.36,120.20188,29,2003,23.2,11.6,0,0,0,1,0,0,0,0,0,0,Knee
+263,2016,Chris Paul,PG,74,2420,26.2,Clippers,fractured right hand (out for season),9,182.88,79.3786,31,2005,24.6,23.8,0,0,0,0,0,0,0,0,0,1,Other
+46,2011,Chris Quinn,PG,41,292,7.5,Spurs,placed on IL (out for season),4,187.96,79.3786,27,Undrafted,9,0.8,0,0,0,0,0,0,0,0,0,1,Other
+225,2015,Cody Zeller,C,62,1487,14.1,Hornets,placed on IL with sore right shoulder (out for season),8,213.36,108.86208,22,2013,7.9,15.2,0,0,0,0,0,1,0,0,0,0,Shoulder
+78,2012,Damion James,SF,7,170,6.1,Nets,placed on IL with sore right foot (out for season),5,200.66,102.0582,24,2010,6,2.8,0,1,0,0,0,0,0,0,0,0,Foot
+112,2013,Danilo Gallinari,SF,71,2309,16.7,Nuggets,torn ACL in left knee (out for season),6,208.28,102.0582,24,2008,6.1,11.6,0,0,0,1,0,0,0,0,0,0,Knee
+73,2012,Danny Granger,SF,62,2062,18.6,Pacers,placed on IL with knee injury / rest (out for season),5,203.2,103.418976,29,2005,18.9,7.133333333,0,0,0,1,0,0,0,0,0,0,Knee
+177,2015,Dante Exum,PG,82,1817,5.7,Jazz,placed on IL recovering from surgery on left knee to repair torn ACL (out for season),8,198.12,86.18248,19,2014,4.6,5.8,0,0,0,1,0,0,0,0,0,0,Knee
+4,2011,Darrell Arthur,PF,80,1609,15.7,Grizzlies,ruptured right Achilles tendon (out for season),4,205.74,106.59412,23,2008,8.1,6.3,0,0,0,0,0,0,0,1,0,0,Achilles
+170,2015,Darren Collison,PG,45,1565,17.5,Kings,placed on IL with strained right hip flexor (out for season),8,182.88,79.3786,27,2009,13.6,13.6,0,0,1,0,0,0,0,0,0,0,Hip
+80,2012,David Lee,PF,57,2121,19.7,Warriors,surgery to repair torn abdominal muscle (out for season),5,205.74,108.86208,29,2005,16.9,20.7,0,0,0,0,0,0,0,0,0,1,Other
+52,2011,David West,PF,70,2451,20.4,Hornets,placed on IL with torn ACL in left knee (out for season),4,205.74,108.86208,30,2003,22.1,19.5,0,0,0,1,0,0,0,0,0,0,Knee
+279,2017,DeMar DeRozan,SG,74,2620,24,Raptors,placed on IL for rest / flu (out for season),10,200.66,99.79024,27,2009,14.7,22.6,0,0,0,0,0,0,0,0,0,1,Other
+172,2015,DeMarcus Cousins,C,59,2013,25.2,Kings,placed on IL with sore right foot (out for season),8,210.82,122.46984,24,2010,15,28.43333333,0,1,0,0,0,0,0,0,0,0,Foot
+54,2011,Deron Williams,PG,65,2465,21.1,Nets,placed on IL with sore right wrist (out for season),4,190.5,94.800728,27,2005,22.6,19.5,0,0,0,0,0,0,0,0,0,1,Other
+239,2016,Derrick Favors,PF,62,1983,21.6,Jazz,sore right knee (out for season),9,208.28,120.20188,24,2010,13.5,16.5,0,0,0,1,0,0,0,0,0,0,Knee
+93,2012,Derrick Rose,PG,39,1375,23,Bulls,torn ACL in left knee (out for season),5,190.5,86.18248,23,2008,17,9.5,0,0,0,1,0,0,0,0,0,0,Knee
+20,2011,Devin Ebanks,SG,20,118,19.4,Lakers,placed on IL with shin injury (out for season),4,205.74,97.52228,21,2010,3,3.2,0,0,0,0,0,0,0,0,0,1,Other
+184,2015,Devin Harris,PG,76,1685,14.8,Mavericks,placed on IL with left big toe injury (out for season),8,190.5,87.089664,32,2004,14.9,7.2,0,1,0,0,0,0,0,0,0,0,Foot
+302,2017,Dion Waiters,SG,46,1384,14.5,Heat,sprained left ankle (out for season),10,193.04,99.79024,25,2012,10.6,9.9,1,0,0,0,0,0,0,0,0,0,Ankle
+293,2017,Dirk Nowitzki,PF,54,1424,17,Mavericks,rest (out for season),10,213.36,111.13004,39,1998,19,6.3,0,0,0,0,0,0,0,0,0,1,Other
+33,2011,Dominique Jones,SG,18,135,10.6,Mavericks,placed on IL with stress fracture in right foot (out for season),4,195.58,97.52228,22,2010,2.9,4.8,0,1,0,0,0,0,0,0,0,0,Foot
+113,2013,Drew Gooden,C,16,151,7.7,Bucks,placed on IL (out for season),6,208.28,113.398,31,2002,13.03333333,7.5,0,0,0,0,0,0,0,0,0,1,Other
+137,2014,Dwight Buycks,PG,14,146,7.2,Raptors,placed on IL (out for season),7,190.5,86.18248,25,Undrafted,3,6.1,0,0,0,0,0,0,0,0,0,1,Other
+76,2012,Dwight Howard,C,54,2070,24.2,Magic,placed on IL with back spasms / herniated disc in back (out for season),5,210.82,120.20188,26,2004,26.8,23,0,0,0,0,0,0,1,0,0,0,Back
+100,2012,Earl Watson,PG,50,1033,9.5,Jazz,placed on IL with knee injury (out for season),5,185.42,90.264808,33,2001,13.4,1.4,0,0,0,1,0,0,0,0,0,0,Knee
+101,2012,Elliot Williams,SG,24,149,18.8,Blazers,placed on IL (F) (out for season),5,196,86,23,2010,2.9,5.1,0,0,0,0,0,0,0,0,0,1,Other
+292,2017,Emmanuel Mudiay,PG,55,1406,10.9,Nuggets,sore/sprained right ankle (out for season),10,195.58,90.7184,21,2015,10.5,12.9,1,0,0,0,0,0,0,0,0,0,Ankle
+164,2015,Eric Bledsoe,PG,81,2800,18.4,Suns,sprained left knee (out for season),8,185.42,88.45044,25,2010,8.2,20.8,0,0,0,1,0,0,0,0,0,0,Knee
+244,2016,Eric Gordon,SG,45,1481,13.5,Pelicans,fractured right ring finger (out for season),9,193.04,97.52228,27,2008,15.5,13,0,0,0,0,1,0,0,0,0,0,Finger 
+85,2012,Eric Maynor,PG,9,137,9.1,Thunder,placed on IL with torn ACL in right knee (out for season),5,190.5,79.3786,25,2009,6.266666667,2.9,0,0,0,1,0,0,0,0,0,0,Knee
+179,2015,Evan Fournier,SG,58,1661,12.4,Magic,right hip injury (out for season),8,200.66,92.98636,22,2012,4.9,13.8,0,0,1,0,0,0,0,0,0,0,Hip
+283,2017,Gary Harris,SG,57,1782,16.5,Nuggets,sore right knee (out for season),10,193.04,95.25432,22,2014,2.2,11,0,0,0,1,0,0,0,0,0,0,Knee
+205,2015,Gary Neal,SG,54,1193,11.1,Timberwolves,sprained left ankle (out for season),8,193.04,95.25432,30,Undrafted,8.4,-0.5,1,0,0,0,0,0,0,0,0,0,Ankle
+285,2017,George Hill,PG,49,1544,19.3,Jazz,placed on IL with sore left big toe (out for season),10,190.5,85.275296,31,2008,15.6,9.333333333,0,1,0,0,0,0,0,0,0,0,Foot
+68,2012,Glen Davis,PF,61,1427,13.2,Magic,placed on IL with sprained right ankle (out for season),5,205.74,131.088088,26,2007,8.1,9.8,1,0,0,0,0,0,0,0,0,0,Ankle
+185,2015,Gordon Hayward,SF,76,2618,20.2,Jazz,Achilles injury (out for season),8,203.2,102.0582,25,2010,5.7,21,0,0,0,0,0,0,0,1,0,0,Achilles
+173,2015,Gorgui Dieng,C,73,2193,17.2,Timberwolves,concussion (out for season),8,210.82,105.686936,25,2013,8.4,16.4,0,0,0,0,0,0,0,0,0,1,Other
+275,2017,Harrison Barnes,PF,79,2803,16.3,Mavericks,rest (out for season),10,203.2,102.0582,25,2012,9.2,13.93333333,0,0,0,0,0,0,0,0,0,1,Other
+97,2012,Iman Shumpert,PG,59,1705,10.8,Knicks,torn lateral meniscus / ACL (CBC) in left knee (out for season),5,195.58,99.79024,22,2011,9.6,8.6,0,0,0,1,0,0,0,0,0,0,Knee
+168,2015,Isaiah Canaan,PG,47,938,12.4,76ers,sprained right foot (out for season),8,182.88,91.171992,24,2013,3.4,4.1,0,1,0,0,0,0,0,0,0,0,Foot
+300,2017,Isaiah Thomas,PG,76,2569,26.5,Celtics,hip injury (out for season),10,175.26,83.91452,28,2011,12.6,3.7,0,0,1,0,0,0,0,0,0,0,Hip
+305,2017,Ivica Zubac,C,38,609,17,Lakers,sprained right ankle (out for season),10,215.9,108.86208,20,2016,9.5,14.6,1,0,0,0,0,0,0,0,0,0,Ankle
+121,2013,JaVale McGee,C,79,1433,20.7,Nuggets,placed on IL with stress fracture in left tibia (out for season),6,213.36,114.305184,25,2008,8.6,7.2,0,0,0,0,0,0,0,0,0,1,Other
+208,2015,Jabari Parker,PF,25,738,14.5,Bucks,surgery on left knee to repair torn ACL (out for season),8,203.2,108.86208,20,2014,12.9,19.4,0,0,0,1,0,0,0,0,0,0,Knee
+261,2016,Jahlil Okafor,C,53,1591,17.1,76ers,arthroscopic surgery on right knee to repair torn meniscus (out for season),9,210.82,124.7378,20,2015,16.6,7.25,0,0,0,1,0,0,0,0,0,0,Knee
+206,2015,Jameer Nelson,PG,63,1407,12.1,Nuggets,placed on IL with hip flexor injury (out for season),8,182.88,86.18248,33,2004,14,11.3,0,0,1,0,0,0,0,0,0,0,Hip
+74,2012,James Harden,SG,62,1946,21.1,Thunder,placed on IL with concussion (out for season),5,195.58,99.79024,22,2009,9.8,24.4,0,0,0,0,0,0,0,0,0,1,Other
+223,2015,James Young,SG,31,332,8.5,Celtics,placed on IL (out for season),8,198.12,97.52228,19,2014,2.9,2.4,0,0,0,0,0,0,0,0,0,1,Other
+131,2013,Jared Sullinger,PF,45,892,13.5,Celtics,placed on IL with surgery on back (out for season),6,205.74,117.93392,21,2012,10.2,16.1,0,0,0,0,0,0,1,0,0,0,Back
+253,2016,Jarell Martin,PF,27,380,14,Grizzlies,sore left foot (out for season),9,208.28,108.408488,22,2015,6.5,8.9,0,1,0,0,0,0,0,0,0,0,Foot
+77,2012,Jarrett Jack,PG,45,1530,17.9,Hornets,placed on IL with stress fracture in right foot (out for season),5,190.5,89.357624,28,2005,10.4,10.3,0,1,0,0,0,0,0,0,0,0,Foot
+16,2011,Jason Collins,C,49,593,5.4,Hawks,placed on IL with sprained left ankle (out for season),4,213.36,115.66596,32,2001,3.8,1.6,1,0,0,0,0,0,0,0,0,0,Ankle
+125,2013,Jason Richardson,SG,33,936,12.6,76ers,surgery on left knee (out for season) (date approximate),6,198.12,102.0582,32,2001,15.53333333,8.3,0,0,0,1,0,0,0,0,0,0,Knee
+130,2013,Jason Smith,C,51,876,16.8,Hornets,placed on IL with torn labrum in right shoulder (out for season),6,213.36,108.86208,27,2007,4.6,8.8,0,0,0,0,0,1,0,0,0,0,Shoulder
+153,2014,Jason Terry,PG,35,570,7.4,Kings,placed on IL recovering from surgery on left knee (out for season),7,187.96,81.64656,36,1999,14.1,5.3,0,0,0,1,0,0,0,0,0,0,Knee
+49,2011,Jason Thompson,PF,75,1748,13.6,Kings,fractured right big toe (out for season),4,210.82,113.398,24,2008,13.6,13.4,0,1,0,0,0,0,0,0,0,0,Foot
+25,2011,Jeff Green,PF-SF,75,2427,12.9,Celtics,surgery on heart to repair aortic aneurysm (out for season),4,205.74,106.59412,24,2007,10.8,12.1,0,0,0,0,0,0,0,0,0,1,Other
+152,2014,Jeff Teague,PG,79,2542,17.1,Hawks,placed on IL (out for season),7,187.96,82.100152,26,2009,3.8,15.4,0,0,0,0,0,0,0,0,0,1,Other
+81,2012,Jeremy Lin,PG,35,940,19.9,Knicks,surgery on left knee to repair torn meniscus (out for season),5,190.5,90.7184,23,Undrafted,4.3,12.4,0,0,0,1,0,0,0,0,0,0,Knee
+59,2012,Jerryd Bayless,PG,31,705,17.7,Raptors,partially torn left oblique muscle (out for season),5,190.5,94.347136,23,2008,3.5,8.233333333,0,0,0,0,0,0,0,0,0,1,Other
+258,2016,Joakim Noah,C,29,635,14.1,Bulls,separated left shoulder (out for season),9,210.82,105.233344,31,2007,18.5,11.7,0,0,0,0,0,1,0,0,0,0,Shoulder
+284,2017,Joe Harris,SG,52,1138,9,Nets,sprained left shoulder (out for season),10,198.12,99.336648,25,2014,2,13.7,0,0,0,0,0,1,0,0,0,0,Shoulder
+280,2017,Joel Embiid,C,31,786,24.1,76ers,bruised left knee (out for season),10,213.36,113.398,23,2014,20.7,32.4,0,0,0,1,0,0,0,0,0,0,Knee
+250,2016,Joffrey Lauvergne,C,59,1041,15.7,Nuggets,back injury (out for season),9,210.82,99.79024,24,2013,4.8,5.5,0,0,0,0,0,0,1,0,0,0,Back
+143,2014,John Jenkins,SG,13,158,4.7,Hawks,back injury (out for season),7,193.04,97.52228,23,2012,5.4,3.666666667,0,0,0,0,0,0,1,0,0,0,Back
+96,2012,John Salmons,SF,46,1250,9,Kings,placed on IL with hip injury (out for season),5,198.12,93.893544,32,2002,13,6.033333333,0,0,1,0,0,0,0,0,0,0,Hip
+118,2013,Jon Leuer,PF-C,28,187,10.4,Grizzlies,placed on IL with sprained left ankle (out for season),6,208.28,103.418976,24,2011,5.9,5.6,1,0,0,0,0,0,0,0,0,0,Ankle
+1,2010,Jonas Jerebko,PF,80,2232,13.9,Pistons,placed on IL recovering from surgery to repair torn right Achilles tendon (out for season),3,208.28,104.779752,23,2009,11.9,10,0,0,0,0,0,0,0,1,0,0,Achilles
+266,2016,Jonathon Simmons,SG,55,813,11.9,Spurs,placed on IL (out for season),9,198.12,88.45044,26,Undrafted,5.7,12.1,0,0,0,0,0,0,0,0,0,1,Other
+29,2011,Josh Howard,SF,18,409,9.2,Wizards,placed on IL with left knee tendinitis (out for season),4,200.66,95.25432,31,2003,18.9,6,0,0,0,1,0,0,0,0,0,0,Knee
+248,2016,Josh Huestis,PF,5,55,6.7,Thunder,placed on IL (out for season),9,200.66,104.32616,24,2014,2.6,3.4,0,0,0,0,0,0,0,0,0,1,Other
+147,2014,Josh McRoberts,PF,78,2360,13.8,Heat,torn meniscus in right knee (out for season),7,208.28,108.86208,27,2007,6.5,5.4,0,0,0,1,0,0,0,0,0,0,Knee
+142,2014,Jrue Holiday,PG,34,1143,17.1,Pelicans,placed on IL with stress fracture in right ankle/tibia (out for season),7,193.04,92.98636,24,2009,9.4,16.3,1,0,0,0,0,0,0,0,0,0,Ankle
+304,2017,Justise Winslow,SF,18,625,8.2,Heat,torn labrum in right shoulder (out for season),10,200.66,102.0582,21,2015,9.2,14.3,0,0,0,0,0,1,0,0,0,0,Shoulder
+290,2017,Kawhi Leonard,SF,74,2474,27.5,Spurs,sprained left ankle (out for season),10,200.66,104.32616,26,2011,15.7,26.9,1,0,0,0,0,0,0,0,0,0,Ankle
+218,2015,Kemba Walker,PG,62,2119,17.6,Hornets,surgery on left knee to repair torn lateral meniscus (out for season),8,185.42,83.460928,25,2011,11.4,21,0,0,0,1,0,0,0,0,0,0,Knee
+178,2015,Kenneth Faried,PF,75,2086,18.4,Nuggets,undisclosed (out for season),8,203.2,103.418976,25,2011,17.5,14.4,0,0,0,0,0,0,0,0,0,1,Other
+175,2015,Kevin Durant,SF,27,913,27.6,Thunder,placed on IL with right foot injury (out for season),8,205.74,108.86208,26,2007,24.8,30.3,0,1,0,0,0,0,0,0,0,0,Foot
+22,2011,Kevin Garnett,PF,71,2220,20.6,Celtics,placed on IL for rest (out for season),4,210.82,114.758776,35,1995,24.9,18.3,0,0,0,0,0,0,0,0,0,1,Other
+41,2011,Kevin Love,PF,73,2611,24.3,Timberwolves,placed on IL with strained left groin (out for season),4,208.28,117.93392,22,2008,15.9,20.5,0,0,0,0,0,0,0,0,0,1,Other
+119,2013,Kevin Martin,SG,77,2136,16,Thunder,placed on IL (out for season),6,200.66,83.91452,30,2004,18.9,15.1,0,0,0,0,0,0,0,0,0,1,Other
+28,2011,Kirk Hinrich,SG-PG,72,2157,12.3,Hawks,placed on IL with strained right hamstring (out for season),4,193.04,86.18248,30,2003,13.7,10.6,0,0,0,0,0,0,0,0,1,0,Hamstring
+109,2013,Kobe Bryant,SG,78,3013,23,Lakers,placed on IL recovering from surgery to repair torn left Achilles tendon (out for season),6,198.12,92.98636,34,1996,24.2,17.3,0,0,0,0,0,0,0,1,0,0,Achilles
+30,2011,Kris Humphries,PF,74,2061,17.8,Nets,placed on IL with sprained ankle (out for season),4,205.74,106.59412,26,2004,6.7,8.6,1,0,0,0,0,0,0,0,0,0,Ankle
+196,2015,Kyle Korver,SG,75,2418,14.8,Hawks,sprained right ankle (out for season),8,200.66,96.161504,34,2003,7.5,10.16666667,1,0,0,0,0,0,0,0,0,0,Ankle
+83,2012,Kyle Lowry,PG,47,1510,18.8,Rockets,hernia (out for season),5,182.88,92.98636,26,2006,10.8,20.4,0,0,0,0,0,0,0,0,0,1,Other
+187,2015,Kyrie Irving,PG,75,2730,21.5,Cavaliers,fractured left kneecap (out for season),8,190.5,87.543256,23,2011,17.9,22.3,0,0,0,1,0,0,0,0,0,0,Knee
+58,2012,LaMarcus Aldridge,PF,55,1994,22.7,Blazers,surgery on right hip to repair torn labrum (out for season) (date approximate),5,210.82,108.86208,26,2006,18.4,24.9,0,0,1,0,0,0,0,0,0,0,Hip
+216,2015,Lance Stephenson,SG,61,1573,8.8,Hornets,sprained right toe (out for season),8,195.58,104.32616,24,2010,2.9,8.05,0,1,0,0,0,0,0,0,0,0,Foot
+269,2016,Lance Thomas,PF,59,1313,10.4,Knicks,sprained MCL in left knee (out for season),9,203.2,106.59412,28,Undrafted,5.2,4.8,0,0,0,1,0,0,0,0,0,0,Knee
+7,2011,Leandro Barbosa,SG,58,1395,15.3,Raptors,placed on IL with sore right pinky finger (out for season),4,190.5,91.625584,28,2003,13.5,4.8,0,0,0,0,1,0,0,0,0,0,Finger 
+36,2011,Linas Kleiza,SF,39,1032,10.1,Raptors,microfracture surgery on right knee to repair cartilage damage (out for season),4,203.2,111.13004,26,2005,11.2,5.3,0,0,0,1,0,0,0,0,0,0,Knee
+230,2016,Lorenzo Brown,PG,8,61,4.4,Pistons,placed on IL (out for season),9,195.58,85.728888,25,2013,2.7,3.1,0,0,0,0,0,0,0,0,0,1,Other
+56,2011,Lou Williams,SG,75,1747,18.9,76ers,placed on IL with strained right hamstring (out for season),4,185.42,79.3786,24,2005,5.9,12.3,0,0,0,0,0,0,0,0,1,0,Hamstring
+259,2016,Lucas Nogueira,C,29,225,15.6,Raptors,placed on IL (out for season),9,213.36,99.79024,23,2013,3.7,5,0,0,0,0,0,0,0,0,0,1,Other
+228,2016,Luke Babbitt,SF,47,845,11.6,Pelicans,illness (out for season),9,205.74,102.0582,27,2010,5,5.75,0,0,0,0,0,0,0,0,0,1,Other
+91,2012,Luke Ridnour,SG,53,1750,13.6,Timberwolves,placed on IL with sprained right ankle (out for season),5,187.96,79.3786,31,2003,7.6,5.533333333,1,0,0,0,0,0,0,0,0,0,Ankle
+69,2012,Luol Deng,SF,54,2129,14.1,Bulls,placed on IL (out for season),5,205.74,99.79024,27,2004,16.9,15.8,0,0,0,0,0,0,0,0,0,1,Other
+295,2017,Malachi Richardson,SG,22,198,9.6,Kings,placed on IL with torn right hamstring (out for season),10,198.12,92.98636,21,2016,2.9,0.7,0,0,0,0,0,0,0,0,1,0,Hamstring
+240,2016,Marc Gasol,C,52,1791,17.7,Grizzlies,fractured right foot (out for season),9,215.9,115.66596,31,2007,20.4,19.8,0,1,0,0,0,0,0,0,0,0,Foot
+114,2013,Marcin Gortat,C,61,1876,15.4,Suns,placed on IL with sprained right foot (out for season),6,210.82,108.86208,29,2005,7.6,18.1,0,1,0,0,0,0,0,0,0,0,Foot
+135,2014,Marco Belinelli,SF,80,2016,15,Spurs,placed on IL (out for season),7,195.58,95.25432,28,2007,5.9,7.1,0,0,0,0,0,0,0,0,0,1,Other
+202,2015,Marcus Morris,PF,81,2045,13.7,Suns,stomach virus (out for season),8,205.74,106.59412,25,2011,1.1,12.6,0,0,0,0,0,0,0,0,0,1,Other
+232,2016,Mario Chalmers,PG,61,1373,17.3,Grizzlies,ruptured right Achilles tendon (out for season),9,187.96,86.18248,30,2008,10.9,8.2,0,0,0,0,0,0,0,1,0,0,Achilles
+257,2016,Markieff Morris,PF,64,1629,12.2,Wizards,placed on IL (out for season),9,208.28,111.13004,26,2011,8.5,13.3,0,0,0,0,0,0,0,0,0,1,Other
+18,2011,Marquis Daniels,SF,49,938,11.7,Kings,placed on IL with bruised spinal cord (out for season),4,198.12,90.7184,30,Undrafted,7.9,5.5,0,0,0,0,0,0,0,0,0,1,Other
+9,2011,Matt Barnes,SF,53,1020,14.6,Lakers,placed on IL with sore right knee (out for season),4,200.66,102.511792,31,2002,9.2,12.2,0,0,0,1,0,0,0,0,0,0,Knee
+251,2016,Meyers Leonard,PF,61,1333,11.3,Blazers,dislocated left shoulder (out for season),9,215.9,111.13004,24,2012,7.7,4.9,0,0,0,0,0,1,0,0,0,0,Shoulder
+92,2012,Nate Robinson,PG,51,1192,18,Warriors,hamstring injury (out for season),5,175.26,81.64656,28,2005,11.2,9,0,0,0,0,0,0,0,0,1,0,Hamstring
+276,2017,Nemanja Bjelica,PF,65,1190,11,Timberwolves,left ankle / foot injury (out for season),10,208.28,102.0582,29,2010,7.7,13.3,1,0,0,0,0,0,0,0,0,0,Ankle
+17,2011,Nick Collison,C,71,1524,10.8,Thunder,placed on IL (out for season),4,208.28,115.66596,30,2003,15.9,9,0,0,0,0,0,0,0,0,0,1,Other
+224,2015,Nick Young,SG,42,1000,14.2,Lakers,fractured left kneecap (out for season),8,200.66,95.25432,30,2007,12,10.4,0,0,0,1,0,0,0,0,0,0,Knee
+105,2013,Nicolas Batum,SF,73,2807,15.7,Blazers,placed on IL with right shoulder injury (out for season),6,203.2,90.7184,24,2008,6.8,14.6,0,0,0,0,0,1,0,0,0,0,Shoulder
+268,2016,Nik Stauskas,SG,73,1809,9.2,76ers,knee injury (out for season),9,198.12,92.98636,22,2014,3.8,3.166666667,0,0,0,1,0,0,0,0,0,0,Knee
+169,2015,Omri Casspi,SF,67,1416,14.4,Kings,illness (out for season),8,205.74,102.0582,27,2009,9,6.166666667,0,0,0,0,0,0,0,0,0,1,Other
+162,2015,Patrick Beverley,PG,56,1727,11.3,Rockets,placed on IL with torn ligaments in left wrist (out for season),8,185.42,95.25432,26,2009,8.6,15,0,0,0,0,0,0,0,0,0,1,Other
+123,2013,Patty Mills,PG,58,656,14.1,Spurs,placed on IL with right foot injury (out for season),6,182.88,83.91452,24,2009,1.2,5.6,0,1,0,0,0,0,0,0,0,0,Foot
+241,2016,Pau Gasol,C,72,2291,21.7,Bulls,knee injury / rest (out for season),9,213.36,113.398,35,2001,23.3,16.1,0,0,0,1,0,0,0,0,0,0,Knee
+273,2017,Quincy Acy,PF,38,558,11.8,Nets,sore left ankle (out for season),10,200.66,108.86208,26,2012,6,3.4,1,0,0,0,0,0,0,0,0,0,Ankle
+122,2013,Quincy Miller,PF,7,26,5.9,Nuggets,placed on IL (out for season),6,205.74,95.25432,20,2012,0.7,3.35,0,0,0,0,0,0,0,0,0,1,Other
+124,2013,Quincy Pondexter,SF,59,1243,11,Grizzlies,placed on IL with stress fracture in right foot (out for season),6,198.12,102.0582,25,2010,3.1,6.833333333,0,1,0,0,0,0,0,0,0,0,Foot
+127,2013,Rajon Rondo,PG,38,1423,18.1,Celtics,placed on IL with torn ACL in right knee (out for season),6,185.42,84.368112,27,2006,18.8,15.23333333,0,0,0,1,0,0,0,0,0,0,Knee
+128,2013,Ramon Sessions,SG,61,1652,17.7,Bobcats,sprained MCL in left knee (out for season),6,190.5,86.18248,27,2007,14.5,6.9,0,0,0,1,0,0,0,0,0,0,Knee
+180,2015,Randy Foye,SG,50,1087,11,Nuggets,undisclosed (out for season),8,193.04,96.615096,31,2006,8.2,5.7,0,0,0,0,0,0,0,0,0,1,Other
+39,2011,Rashard Lewis,SF-PF,57,1824,12,Wizards,placed on IL with sore right knee / right knee tendinitis (out for season),4,208.28,104.32616,31,1998,17.9,5.1,0,0,0,1,0,0,0,0,0,0,Knee
+166,2015,Reggie Bullock,SF,36,338,6.2,Suns,concussion (out for season),8,200.66,92.98636,24,2013,2.4,5.5,0,0,0,0,0,0,0,0,0,1,Other
+191,2015,Richard Jefferson,SF,74,1244,11.3,Mavericks,back injury (out for season),8,200.66,106.140528,35,2001,11.2,6.2,0,0,0,0,0,0,1,0,0,0,Back
+247,2016,Richaun Holmes,PF,51,702,15.9,76ers,strained right Achilles tendon (out for season),9,208.28,111.13004,22,2015,6.7,10.1,0,0,0,0,0,0,0,1,0,0,Achilles
+94,2012,Ricky Rubio,PG,41,1404,14.6,Timberwolves,torn ACL in left knee (out for season),5,193.04,81.64656,21,2009,15.4,16.2,0,0,0,1,0,0,0,0,0,0,Knee
+277,2017,Robert Covington,SF,67,2119,13.2,76ers,swelling in right knee (out for season),10,205.74,97.52228,26,Undrafted,12.4,15.53333333,0,0,0,1,0,0,0,0,0,0,Knee
+211,2015,Ronnie Price,PG,43,982,10.2,Lakers,surgery on right elbow to remove bone spurs and chips (out for season),8,187.96,86.18248,32,Undrafted,2.6,2.3,0,0,1,0,0,0,0,0,0,0,Hip
+23,2011,Rudy Gay,SF,54,2152,17.8,Grizzlies,placed on IL with partially dislocated left shoulder (out for season),4,203.2,104.32616,24,2006,9.1,16.23333333,0,0,0,0,0,1,0,0,0,0,Shoulder
+243,2016,Rudy Gobert,C,61,1932,17.5,Jazz,placed on IL with sprained right ankle (out for season),9,215.9,111.13004,24,2013,17.6,26,1,0,0,0,0,0,0,0,0,0,Ankle
+3,2011,Ryan Anderson,PF,64,1424,19,Magic,placed on IL (out for season),4,208.28,108.86208,23,2008,8.8,15.2,0,0,0,0,0,0,0,0,0,1,Other
+255,2016,Salah Mejri,C,34,397,16.8,Mavericks,strained right hip (out for season),9,218.44,111.13004,30,Undrafted,6.7,7.7,0,0,1,0,0,0,0,0,0,0,Hip
+48,2011,Samardo Samuels,PF,37,701,11.7,Cavaliers,placed on IL with strained left groin (out for season),4,205.74,117.93392,22,Undrafted,7.4,2.7,0,0,0,0,0,0,0,0,0,1,Other
+186,2015,Serge Ibaka,PF,64,2116,16.6,Thunder,placed on IL with right knee injury (out for season),8,208.28,111.13004,25,2008,15.8,16.33333333,0,0,0,1,0,0,0,0,0,0,Knee
+278,2017,Seth Curry,PG,70,2029,15.5,Mavericks,sore left shoulder (out for season),10,187.96,83.91452,26,Undrafted,6.5,6.8,0,0,0,0,0,1,0,0,0,0,Shoulder
+148,2014,Shabazz Muhammad,SG,37,290,13.1,Timberwolves,placed on IL with sprained MCL in right knee (out for season),7,198.12,100.697424,21,2013,3,8.8,0,0,0,1,0,0,0,0,0,0,Knee
+204,2015,Shabazz Napier,PG,51,1012,9.3,Heat,hip injury / sports hernia (out for season),8,185.42,79.3786,23,2014,6.1,4.1,0,0,1,0,0,0,0,0,0,0,Hip
+40,2011,Shaun Livingston,PG,73,1261,14.3,Bobcats,placed on IL with tailbone injury (out for season),4,200.66,83.91452,25,2004,10.2,8.266666667,0,0,0,0,0,0,0,0,0,1,Other
+102,2012,Shawne Williams,SF,25,514,4.9,Nets,surgery on left foot to remove bone fragment (out for season),5,205.74,104.32616,26,2006,6.5,8.2,0,1,0,0,0,0,0,0,0,0,Foot
+198,2015,Shelvin Mack,PG,55,833,13.2,Hawks,separated right shoulder (out for season),8,190.5,93.893544,25,2011,4.4,8,0,0,0,0,0,1,0,0,0,0,Shoulder
+174,2015,Spencer Dinwiddie,PG,34,455,10.2,Pistons,sprained left ankle (out for season),8,198.12,90.7184,22,2014,5,9.8,1,0,0,0,0,0,0,0,0,0,Ankle
+66,2012,Stephen Curry,PG,26,732,21.2,Warriors,placed on IL with sprained right ankle (out for season),5,190.5,83.91452,24,2009,19,24.9,1,0,0,0,0,0,0,0,0,0,Ankle
+181,2015,Taj Gibson,PF,62,1692,16.1,Bulls,surgery on left ankle (out for season),8,205.74,102.0582,30,2009,10.4,12.33333333,1,0,0,0,0,0,0,0,0,0,Ankle
+249,2016,Terrence Jones,PF,50,1044,13.5,Rockets,placed on IL (out for season),9,205.74,114.305184,24,2012,7.8,0.5,0,0,0,0,0,0,0,0,0,1,Other
+57,2011,Terrence Williams,SG,21,290,6.9,Rockets,placed on IL with abdominal injury (out for season),4,198.12,99.79024,24,2009,9.4,5.2,0,0,0,0,0,0,0,0,0,1,Other
+214,2015,Thabo Sefolosha,SF,52,976,13.8,Hawks,"fractured fibula, ligament damage in leg (out for season)",8,200.66,100.697424,31,2006,9.4,10.5,0,0,0,0,0,0,0,0,0,1,Other
+219,2015,Travis Wear,SF,51,672,8.5,Knicks,sore lower back (out for season),8,208.28,102.0582,24,Undrafted,4,4.4,0,0,0,0,0,0,1,0,0,0,Back
+13,2011,Trevor Booker,PF,65,1063,15.3,Wizards,placed on IL with sore right foot (out for season),4,203.2,108.86208,23,2010,7.7,8.5,0,1,0,0,0,0,0,0,0,0,Foot
+238,2016,Tyreke Evans,SG,25,765,17.9,Pelicans,right knee injury (out for season),9,198.12,99.79024,26,2009,16,19.4,0,0,0,1,0,0,0,0,0,0,Knee
+233,2016,Tyson Chandler,C,66,1618,14.7,Suns,concussion (out for season),9,215.9,108.86208,33,2001,19.4,8.15,0,0,0,0,0,0,0,0,0,1,Other
+0,2010,Udonis Haslem,PF,78,2177,14.6,Heat,placed on IL with torn ligament in left foot (out for season),3,203.2,106.59412,30,Undrafted,3.2,6.4,0,1,0,0,0,0,0,0,0,0,Foot
+262,2016,Victor Oladipo,SG,72,2379,16.7,Magic,placed on IL with concussion (out for season),9,193.04,95.25432,24,2013,13.2,22.5,0,0,0,0,0,0,0,0,0,1,Other
+65,2012,Wilson Chandler,SF,8,215,9,Nuggets,placed on IL with groin injury (out for season),5,203.2,102.0582,25,2007,7.5,12.4,0,0,0,0,0,0,0,0,0,1,Other
+27,2011,Xavier Henry,SG,38,527,7,Grizzlies,placed on IL with sprained right knee (out for season),4,198.12,99.79024,20,2010,2.9,3.3,0,0,0,1,0,0,0,0,0,0,Knee
+288,2017,Zach LaVine,SG,47,1749,14.6,Timberwolves,torn ACL in left knee (out for season),10,195.58,83.91452,22,2014,9.3,20.3,0,0,0,1,0,0,0,0,0,0,Knee
+90,2012,Zaza Pachulia,C,58,1640,14,Hawks,placed on IL with sprained left ankle (out for season),5,210.82,124.7378,28,2003,6.2,11.8,1,0,0,0,0,0,0,0,0,0,Ankle
+,,,,,,,,,,,,,,,11.17925347,,,,,,,,,,,
+,,,,,,,,,,,,,,,6.69837263,,,,,,,,,,,
